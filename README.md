@@ -2,9 +2,9 @@
 Final Project for ENG006 - Engineering Problem Solving
 
 ## About
-Online, multiplayer dice game with sound effects and animations.
+Online, multiplayer dice game with sound effects and animations
 
-Requires [ThingSpeak](https://thingspeak.mathworks.com) to play.
+Requires [ThingSpeak](https://thingspeak.mathworks.com) to play
 
 
 ## Screenshots
